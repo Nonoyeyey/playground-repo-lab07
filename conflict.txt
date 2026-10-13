@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bob changed this line
+=======
+Alice changed this line
+>>>>>>> 5603db7cd20e7dccf71ee06c0a16ce7f66ba21e4
